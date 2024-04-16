@@ -230,7 +230,7 @@ a:active{
 }
 /* end navigation */
 #financialPage{
-	background: url('../images/FinancialBackground.jpg') no-repeat;
+	background: url('FinancialBackground.jpg') no-repeat;
 	background-repeat:no-repeat;
 	background-size:contain;
 	background-position:center;
@@ -253,7 +253,7 @@ a:active{
 	font-size: 70px;
 }
 #operationsPage{
-	background: url('../images/OperationsBackground.jpg') no-repeat;
+	background: url('OperationsBackground.jpg') no-repeat;
 	background-repeat:no-repeat;
 	background-size:contain;
 	background-position:center;
@@ -276,7 +276,7 @@ a:active{
 }
 
 #marketPage{
-	background: url('../images/MarketBackground.jpg') no-repeat;
+	background: url('MarketBackground.jpg') no-repeat;
 	background-repeat:no-repeat;
 	background-size:contain;
 	background-position:center;
