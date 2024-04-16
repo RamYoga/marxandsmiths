@@ -321,7 +321,7 @@ a:active{
 }
 #home
 	{
-		background: url('../images/homepage.jpg') no-repeat;
+		background: url('homepage.jpg') no-repeat;
 		background-repeat:no-repeat;
 		background-size:contain;
 		background-position:center;
