@@ -1,0 +1,30 @@
+.MS{
+    max-width:8%;
+    height:auto;
+    position:absolute;
+    top: 5px;
+    left: 40px;
+    overflow: hidden!important;
+}
+.headerr{
+    position: fixed !important;
+}
+#heading{
+    /* background-color: green; */
+    height: 60px;
+}
+#tileHead{
+    align-items: center;
+}
+#services{
+    padding-left: 0px;
+    font-size: large;
+    color: white;
+    /* color: #b3951b; */
+}
+#market{
+    padding-left: 20px;
+    font-size: large;
+    color: white;
+    /* color: #b3951b; */
+}
